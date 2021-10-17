@@ -7,4 +7,4 @@ import cdn
 
 and js:
 
-mask.add(<css selector>)
+mask.add('<css selector>')
