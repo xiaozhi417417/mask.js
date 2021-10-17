@@ -2,8 +2,10 @@
 
 ## Get start
 
+### plese download js file!!!!!!!
+
 import cdn 
-<code><script type="text/javascript" src="https://raw.githubusercontent.com/xiaozhi417417/mask.js/main/V0.1/mask.js"></script></code>
+<code><script type="text/javascript" src="[js file]"></script></code>
 
 and js:
 
