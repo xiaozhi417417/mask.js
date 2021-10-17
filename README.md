@@ -3,7 +3,7 @@
 ## Get start
 
 import cdn 
-<code>'<script src="mask.js"></script>'</code>
+<code>'<script type="text/javascript" src="<js file>"></script>'</code>
 
 and js:
 
