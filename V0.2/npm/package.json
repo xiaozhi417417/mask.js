@@ -4,11 +4,11 @@
   "description": "none",
   "main": "mask.js",
   "scripts": {
-    "test": "echo a"
+    "test": "echo this is fucking that"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xiaozhi417417/mask.js.git"
+    "url": "github.com/xiaozhi417417"
   },
   "author": "xiaozhi",
   "license": "MIT",
