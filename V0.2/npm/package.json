@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/xiaozhi417417/mask.js/issues"
   },
-  "homepage": "https://github.com/xiaozhi417417/mask.js#readme"
+  "homepage": "https://github.com/xiaozhi417417/mask.js#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  }
 }
