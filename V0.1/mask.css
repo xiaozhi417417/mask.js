@@ -1,0 +1,9 @@
+.mask {
+    background-color: #000;
+    color: #000;
+    user-select: none;
+}
+
+.mask:hover {
+    cursor: pointer;
+}
