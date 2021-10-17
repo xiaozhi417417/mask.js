@@ -2,7 +2,7 @@
 
 ## Get start
 
-### plese download js and css file!!!!!!!
+### 請下載 css 和 js 檔 並置於html同目錄!!!!
 don't import raw
 
 import cdn 
