@@ -1,0 +1,19 @@
+{
+  "name": "mask.js",
+  "version": "0.2.0",
+  "description": "none",
+  "main": "mask.js",
+  "scripts": {
+    "test": "echo a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaozhi417417/mask.js.git"
+  },
+  "author": "xiaozhi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaozhi417417/mask.js/issues"
+  },
+  "homepage": "https://github.com/xiaozhi417417/mask.js#readme"
+}
