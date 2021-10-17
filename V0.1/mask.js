@@ -2,7 +2,7 @@ var link = document.createElement('link');
 
 link.type = 'text/css';
 link.rel = 'stylesheet';
-link.href = "mask.css";
+link.href = "https://raw.githubusercontent.com/xiaozhi417417/mask.js/main/V0.1/mask.css";
 
 var head = document.getElementsByTagName('head')[0];
 head.appendChild(link);
