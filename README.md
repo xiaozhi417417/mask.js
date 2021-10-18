@@ -2,9 +2,7 @@
 
 ## Get start
 
-### 請下載 css 和 js 檔 並置於html同目錄!!!!
-don't import raw
-
+### 請下載 css 和 js 檔 並置於html同目錄!!!!()
 import cdn 
 <code><script type="text/javascript" src="[js file]"></script></code>
 
