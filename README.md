@@ -8,7 +8,7 @@ don't import raw
 import cdn 
 <code><script type="text/javascript" src="[js file]"></script></code>
 
-####用法:
+### 用法:
 
 <code>mask.add(<css selector>);</code>
 
