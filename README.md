@@ -2,7 +2,7 @@
 
 ## Get start
 
-### 請下載 css 和 js 檔 並置於html同目錄!!!! (https://github.com/xiaozhi417417/mask.js/releases) 無須<link>CSS檔，js會自己抓
+### 請下載 css 和 js 檔 並置於html同目錄!!!! (https://github.com/xiaozhi417417/mask.js/releases) 無須<link>
 import cdn 
 <code><script type="text/javascript" src="[js file]"></script></code>
 
